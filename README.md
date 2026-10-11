@@ -35,8 +35,17 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Frontend & Desktop**
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
 **AI & Backend**
 
@@ -49,6 +58,9 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 **Tools & Workflow**
 
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Flow-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -62,12 +74,12 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 
 ## 🚀 Projects
 
-| Project | What it is |
-|---|---|
-| **FORENSIC-X** | AI-assisted digital forensics framework (SUTRAM 2026) |
-| **REDZONE** | Disaster relocation decision-support tool for Assam flood/erosion scenarios (SIH 2026) |
-
-*(Add repo links once they're public.)*
+- **FORENSIC-X**: AI-assisted digital forensics framework (SUTRAM 2026)
+- **REDZONE**: disaster relocation decision-support tool for Assam flood/erosion scenarios (SIH 2026)
+- **Stivium**
+- **EventTwin**
+- **VeriVision Integrity Assurance**
+- **Suraksha Sense**
 
 ---
 
