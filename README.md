@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Mayank&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Mayank+Dabas&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Mayank32935M">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F5A0&center=true&vCenter=true&width=620&lines=B.Tech+%2B+M.Tech+AI+%26+ML+%40+USAR%2C+GGSIPU;Agentic+AI+%7C+LLM+APIs+%7C+Automation;Python+first%2C+shipping+in+public" alt="typing intro" />
@@ -24,7 +24,7 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 - ⚙️ Automation pipelines (n8n) and Python backends that connect AI to real data
 - 🎬 AI video + editing workflows (DaVinci Resolve, CapCut, Kling, Higgsfield)
 - 🌐 Freelance web + video work for local businesses and Instagram pages
-- 📚 Used to Work **@Kalyan Classes**, creating and teaching CBSE English curriculum for Class 6–10
+- 📚 Used to work with **Kalyan Classes**, creating and teaching CBSE English curriculum for Class 6–10
 - 🧩 Grinding LeetCode in Python to build the fundamentals properly
 
 ---
@@ -34,12 +34,17 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Currently Learning**
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frontend & Desktop**
 
@@ -55,31 +60,52 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 
+**Cloud & Deploy**
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 **Tools & Workflow**
 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Flow-34A853?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+**Familiar With (basics)**
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 **Creative**
 
 <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 ---
 
 ## 🚀 Projects
 
-- **FORENSIC-X**: AI-assisted digital forensics framework (SUTRAM 2026)
-- **REDZONE**: disaster relocation decision-support tool for Assam flood/erosion scenarios (SIH 2026)
-- **Stivium**
-- **EventTwin**
-- **VeriVision Integrity Assurance**
-- **Suraksha Sense**
+### 🔨 Built by me
+
+| Project | What it is | Repo |
+|---|---|---|
+| **FORENSIC-X** | AI-assisted digital forensics framework (SUTRAM 2026) | [repo](https://github.com/Mayank32935M/FORENSIC-X) |
+| **Suraksha Sense** | _add one-liner_ | [repo](https://github.com/Mayank32935M/Suraksha-Sense) |
+| **Null Game** | Game, in development | [repo](https://github.com/Mayank32935M/null-game) |
+
+### 🤝 Team projects
+
+| Project | My role | Repo |
+|---|---|---|
+| **Stivium** | Building an IDE from scratch in Rust + Tauri with Aditya Bhatnagar. With frontend Using Typescript and Tailwind CSS. Actively in development. | [repo](https://github.com/adityabhatnagar1/stivium) |
+| **REDZONE** (SIH 2026) | Frontend design, impact strategy, and pitching to the judges. Disaster relocation decision-support tool for Assam flood/erosion scenarios. | [repo](https://github.com/neptn-ui/Redzone) |
+| **Eventtwin** | UI selection and impact strategy (non-code role). _add one-liner_ | [repo](https://github.com/neptn-ui/Eventtwin) |
+| **VeriVision Integrity Assurance** | Team member (support role). _add one-liner_ | [repo](https://github.com/kartikeya527/verivision-integrity-assurance) |
 
 ---
 
