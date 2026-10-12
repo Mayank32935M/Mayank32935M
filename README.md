@@ -114,7 +114,7 @@ I'm a first-year dual-degree (B.Tech + M.Tech) AI & ML student at **USAR, GGSIPU
 | Project | What it is | Repo |
 |---|---|---|
 | **FORENSIC-X** | AI-assisted digital forensics framework (SUTRAM 2026) | [repo](https://github.com/Mayank32935M/FORENSIC-X) |
-| **Suraksha Sense** | _add one-liner_ | [repo](https://github.com/Mayank32935M/Suraksha-Sense) |
+| **Suraksha Sense** | AI powered Finance recommendation | [repo](https://github.com/Mayank32935M/Suraksha-Sense) |
 | **Null Game** | Game, in development | [repo](https://github.com/Mayank32935M/null-game) |
 
 ### 🤝 Team projects
