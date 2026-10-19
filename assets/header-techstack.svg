@@ -1,0 +1,15 @@
+<svg width="800" height="50" viewBox="0 0 800 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="400" y="32" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#76E4CE" opacity="0.85">🛠️  TECH STACK</text>
+  <line x1="100" y1="44" x2="335" y2="44" stroke="url(#tsL)" stroke-width="1"/>
+  <line x1="465" y1="44" x2="700" y2="44" stroke="url(#tsR)" stroke-width="1"/>
+  <defs>
+    <linearGradient id="tsL" x1="100" y1="0" x2="335" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67DDF5" stop-opacity="0"/>
+      <stop offset="1" stop-color="#67DDF5" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="tsR" x1="465" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67DDF5" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#67DDF5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
