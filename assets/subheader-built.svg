@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="36" viewBox="0 0 400 36">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#76E4CE" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#67DDF5" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#76E4CE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="10" y="22" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#F1F5F9" letter-spacing="2">🔨  BUILT BY ME</text>
+  <rect x="10" y="30" width="180" height="1.5" rx="0.75" fill="url(#bar)"/>
+</svg>

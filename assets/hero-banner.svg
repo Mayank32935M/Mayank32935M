@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a1019"/>
+      <stop offset="0.5" stop-color="#101923"/>
+      <stop offset="1" stop-color="#17232D"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76E4CE" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#76E4CE"/>
+      <stop offset="0.5" stop-color="#67DDF5"/>
+      <stop offset="0.8" stop-color="#76E4CE"/>
+      <stop offset="1" stop-color="#76E4CE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accentLine2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67DDF5" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#67DDF5" stop-opacity="0.3"/>
+      <stop offset="0.5" stop-color="#76E4CE" stop-opacity="0.4"/>
+      <stop offset="0.7" stop-color="#67DDF5" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#67DDF5" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="425" cy="120" r="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#76E4CE" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#76E4CE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.7" fill="#76E4CE" opacity="0.12"/>
+    </pattern>
+    <filter id="textGlow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="280" fill="url(#bg)"/>
+
+  <!-- Dot grid pattern -->
+  <rect width="850" height="280" fill="url(#dots)"/>
+
+  <!-- Central glow -->
+  <rect width="850" height="280" fill="url(#glow)"/>
+
+  <!-- Corner brackets — top left -->
+  <polyline points="30,50 30,30 50,30" fill="none" stroke="#76E4CE" stroke-width="1.5" opacity="0.4"/>
+  <!-- Corner brackets — top right -->
+  <polyline points="800,30 820,30 820,50" fill="none" stroke="#76E4CE" stroke-width="1.5" opacity="0.4"/>
+  <!-- Corner brackets — bottom left -->
+  <polyline points="30,230 30,250 50,250" fill="none" stroke="#76E4CE" stroke-width="1.5" opacity="0.4"/>
+  <!-- Corner brackets — bottom right -->
+  <polyline points="800,250 820,250 820,230" fill="none" stroke="#76E4CE" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Subtle horizontal scan lines -->
+  <line x1="60" y1="80" x2="200" y2="80" stroke="#67DDF5" stroke-width="0.5" opacity="0.15"/>
+  <line x1="650" y1="80" x2="790" y2="80" stroke="#67DDF5" stroke-width="0.5" opacity="0.15"/>
+  <line x1="60" y1="200" x2="200" y2="200" stroke="#67DDF5" stroke-width="0.5" opacity="0.15"/>
+  <line x1="650" y1="200" x2="790" y2="200" stroke="#67DDF5" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Small decorative dots at line ends -->
+  <circle cx="60" cy="80" r="1.5" fill="#67DDF5" opacity="0.25"/>
+  <circle cx="200" cy="80" r="1.5" fill="#67DDF5" opacity="0.25"/>
+  <circle cx="790" cy="80" r="1.5" fill="#67DDF5" opacity="0.25"/>
+  <circle cx="650" cy="80" r="1.5" fill="#67DDF5" opacity="0.25"/>
+
+  <!-- Name -->
+  <text x="425" y="130" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="700" fill="#F1F5F9" letter-spacing="8">MAYANK DABAS</text>
+
+  <!-- Accent line under name -->
+  <rect x="225" y="150" width="400" height="2.5" rx="1.25" fill="url(#accentLine)"/>
+
+  <!-- Subtitle area -->
+  <text x="425" y="185" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="500" fill="#76E4CE" letter-spacing="5" opacity="0.95">AI &amp; ML · AGENTIC AI · AUTOMATION</text>
+
+  <!-- Secondary accent line -->
+  <rect x="275" y="200" width="300" height="1" rx="0.5" fill="url(#accentLine2)"/>
+
+  <!-- Bottom edge fade -->
+  <rect x="0" y="265" width="850" height="15" fill="url(#bg)" opacity="0.8"/>
+</svg>

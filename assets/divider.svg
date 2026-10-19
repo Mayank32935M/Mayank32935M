@@ -1,12 +1,21 @@
-<svg width="800" height="4" viewBox="0 0 800 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="1" y="1.5" rx="0.5" fill="url(#divGrad)" opacity="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="40" viewBox="0 0 850 40">
   <defs>
-    <linearGradient id="divGrad" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#101923" stop-opacity="0"/>
-      <stop offset="0.15" stop-color="#76E4CE" stop-opacity="0.5"/>
-      <stop offset="0.5" stop-color="#67DDF5"/>
-      <stop offset="0.85" stop-color="#76E4CE" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#101923" stop-opacity="0"/>
+    <linearGradient id="lineL" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#76E4CE" stop-opacity="0"/>
+      <stop offset="0.8" stop-color="#76E4CE" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#67DDF5" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="lineR" x1="450" y1="0" x2="850" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67DDF5" stop-opacity="0.8"/>
+      <stop offset="0.2" stop-color="#76E4CE" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#76E4CE" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  <!-- Left gradient line -->
+  <rect x="40" y="19" width="360" height="2" rx="1" fill="url(#lineL)"/>
+  <!-- Center diamond -->
+  <polygon points="425,12 433,20 425,28 417,20" fill="#76E4CE" opacity="0.7"/>
+  <polygon points="425,15 430,20 425,25 420,20" fill="#101923"/>
+  <!-- Right gradient line -->
+  <rect x="450" y="19" width="360" height="2" rx="1" fill="url(#lineR)"/>
 </svg>

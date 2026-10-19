@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="120" viewBox="0 0 850 120">
+  <defs>
+    <linearGradient id="footBg" x1="0" y1="0" x2="850" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#17232D"/>
+      <stop offset="0.5" stop-color="#101923"/>
+      <stop offset="1" stop-color="#0a1019"/>
+    </linearGradient>
+    <linearGradient id="topEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76E4CE" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#76E4CE" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#67DDF5" stop-opacity="0.7"/>
+      <stop offset="0.7" stop-color="#76E4CE" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#76E4CE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="fdots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.7" fill="#76E4CE" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="120" fill="url(#footBg)"/>
+  <rect width="850" height="120" fill="url(#fdots)"/>
+
+  <!-- Top accent edge -->
+  <rect x="0" y="0" width="850" height="2" fill="url(#topEdge)"/>
+
+  <!-- Corner brackets -->
+  <polyline points="30,20 30,10 40,10" fill="none" stroke="#76E4CE" stroke-width="1" opacity="0.3"/>
+  <polyline points="810,10 820,10 820,20" fill="none" stroke="#76E4CE" stroke-width="1" opacity="0.3"/>
+  <polyline points="30,100 30,110 40,110" fill="none" stroke="#76E4CE" stroke-width="1" opacity="0.3"/>
+  <polyline points="810,110 820,110 820,100" fill="none" stroke="#76E4CE" stroke-width="1" opacity="0.3"/>
+
+  <!-- Username -->
+  <text x="425" y="50" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="400" fill="#A4B4C2" letter-spacing="4" opacity="0.7">github.com/Mayank32935M</text>
+
+  <!-- Thin accent line -->
+  <rect x="300" y="62" width="250" height="1" rx="0.5" fill="url(#topEdge)" opacity="0.5"/>
+
+  <!-- Subtle bottom accent line -->
+  <rect x="350" y="75" width="150" height="1" rx="0.5" fill="url(#topEdge)" opacity="0.3"/>
+</svg>
