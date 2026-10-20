@@ -182,12 +182,12 @@
   </tr>
   <tr>
     <td><b>Eventtwin</b></td>
-    <td>UI selection and impact strategy (non-code role). <i>add one-liner</i></td>
+    <td>UI selection and impact strategy (non-code role). <i></i></td>
     <td align="center"><a href="https://github.com/neptn-ui/Eventtwin"><img src="https://img.shields.io/badge/repo-101923?style=flat-square&logo=github&logoColor=76E4CE" height="20" alt="repo" /></a></td>
   </tr>
   <tr>
     <td><b>VeriVision Integrity Assurance</b></td>
-    <td>Team member (support role). <i>add one-liner</i></td>
+    <td>Team member (support role). <i></i></td>
     <td align="center"><a href="https://github.com/kartikeya527/verivision-integrity-assurance"><img src="https://img.shields.io/badge/repo-101923?style=flat-square&logo=github&logoColor=76E4CE" height="20" alt="repo" /></a></td>
   </tr>
 </table>
